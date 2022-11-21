@@ -1,5 +1,5 @@
 # Portfolio
-Hi everyone.I am an Interaction Designer.
+Hi everyone.I am a Visual & UI/UX Designer.
 Here I have uploaded some of my Project work that I have designed using Illustrator and Photoshop which includes :
 
 1.Brochure Designs :
