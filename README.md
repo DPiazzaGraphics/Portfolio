@@ -11,10 +11,10 @@ Here I have uploaded some of my Project work that I have designed using Illustra
  - An animated Cartoon of **Ironman**
  
 3.Logo Design :
--**Logo** for a startup company manufacturing steel products.
+- **Logo** for a startup company manufacturing steel products.
  
-4.Pamphlet and Social Media Post
- -Designed a **Herbal Product Pamphlet** comprising hair pack made from natural ingredients. Also I have designed the **label sticker** along with **Social Media Post**.
+4.Pamphlet and Social Media Post :
+- Designed a **Herbal Product Pamphlet** comprising hair pack made from natural ingredients. Also I have designed the **label sticker** along with **Social Media Post**.
 
 5.Product Designs :
  - **Chess Game**
