@@ -7,16 +7,19 @@ Here I have uploaded some of my Project work that I have designed using Illustra
  - **Travel Brochure** especially designed for Egypt Tour.
  - **Ice-Cream Parlor Menu** containing exotic and seasonal flavors of ice-cream.  
  
-2.Cartoon Designs :
+2.Logo Design :
+-Logo for a startup company manufacturing steel products.
+
+.Cartoon Designs :
  - An animated Cartoon of **Ironman**
  
-3.Product Designs :
+.Product Designs :
  - **Chess Game**
  - **Remote Control** and **Setup box**
 
-4.Visiting Card Designs :
+.Visiting Card Designs :
  - For a **Fashion-Boutique** Designer 
  - For a **Photographer**
  
- 5.Low Poly Image :
+ .Low Poly Image :
  - Low Poly Image of **Lion Family** .
